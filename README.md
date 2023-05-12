@@ -26,5 +26,58 @@
 [<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/icons8-телеграм-94.png"/>](https://t.me/vitaliykolesnikov)
 
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>](https://github.com/kolesnikovvitaliy)
-<!--  /home/kolesnikovvitaliy/Desktops/Desktop1/PROJECT/kolesnikovvitaliy/images/icons8-телеграм-94.png-->
+
+
+
+### :hammer_and_wrench: Technology stack :
+
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-ffce5a?style=flat-square&logo=Ansible)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-F04E97?style=flat-square&logo=Elasticsearch)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-573D7C?style=flat-square&logo=Bootstrap&logoColor=whiter)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Nginx](https://img.shields.io/badge/-Nginx-029339?style=flat-square&logo=Nginx)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## About my Github:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolesnikovvitaliy-rom&theme=nord_bright) <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolesnikovvitaliy-rom&theme=nord_bright) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolesnikovvitaliy-rom&theme=nord_bright) <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolesnikovvitaliy-rom&theme=nord_bright) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kolesnikovvitaliy-rom&theme=nord_bright)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
+
+
+<!-- from https://github.com/Platane/snk -->
+![Snake Status](./images/github-kolesnikovvitaliy-snake.svg)
+
 
