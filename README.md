@@ -1,8 +1,6 @@
 [<img align="right" alt="sumit" width="34px" src="https://img.icons8.com/bubbles/50/000000/like.png"/>](https://kolesnikovvitaliy.github.io)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 ### Hi there I'm Vitaliy  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
@@ -48,6 +46,7 @@
 ## About my Github:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kolesnikovvitaliy&theme=prussian&hide_border=true&type=png)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolesnikovvitaliy)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolesnikovvitaliy&show_icons=true&theme=radical)
