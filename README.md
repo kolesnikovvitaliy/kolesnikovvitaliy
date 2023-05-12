@@ -23,11 +23,8 @@
 
 [<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/min-hh-red.png"/>](https://taganrog.hh.ru/resume/13eae788ff0bee7f2f0039ed1f6d7145434a69)
 [<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/icons8-телеграм-94.png"/>](https://t.me/vitaliykolesnikov)
-[<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>](https://github.com/kolesnikovvitaliy)
-# 
+[<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>](https://github.com/kolesnikovvitaliy)'
 #
-
-
 
 ### :hammer_and_wrench: Technology stack :
 
@@ -48,27 +45,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## About my Github:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolesnikovvitaliy-rom&theme=nord_bright) <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolesnikovvitaliy-rom&theme=nord_bright) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolesnikovvitaliy-rom&theme=nord_bright) <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolesnikovvitaliy-rom&theme=nord_bright) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kolesnikovvitaliy-rom&theme=nord_bright)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kolesnikovvitaliy&theme=prussian&hide_border=true&type=png)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
@@ -77,7 +56,7 @@
 </picture>
 
 
-<!-- from https://github.com/Platane/snk -->
+
 ![Snake Status](./images/github-kolesnikovvitaliy-snake.svg)
 
 
