@@ -12,7 +12,7 @@
 - :seedling: I’m working as a Software Engineer and contributing to frontend and backend for building interactiv applications.
 - 👯 I'm learning new things everyday.
 - :zap: In my free time, I solve problems on https://stepik.org/course/82541/promo#toc and read tech articles.
-- :mailbox: How to reach me: 
+- :mailbox: How to contact me: 
     mail me @ kolesnikovvitaliy@mail.ru
     
 - ⚡ Fun fact: I love self-education
