@@ -9,7 +9,7 @@
 ### Я инженер-программист Python / Full Stack разработчик / С навыками DevOps и ремонта компьютерной техники.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: Работаю с Python более 3 лет.
-- :seedling: В ежедневном режиме использую технологии разработки на Python, участвую во Frontend и Backend разработке для создания интерактивных приложений.
+- :seedling: В ежедневном режиме использую технологии разработки на Python, участвую во Frontend и Backend для создания интерактивных приложений.
 - 👯 Принимаю участие в DevOps и ремонте компьютерной техники.
 - 👯 Изучаю что-то новое каждый день.
 - :zap: В свободное время решаю задачи на: https://stepik.org/course/82541/promo#toc и читаю технические статьи.
@@ -17,12 +17,13 @@
     mail: kolesnikovvitaliy@mail.ru
     telegram: @vitaliykolesnikov
     
-- ⚡ Люблю самообразование и решать задачи самостаятельно
+- ⚡ Люблю самообразование и решать задачи самостjятельно
 
 ### Свяжитесь со мной :
 
 [<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/min-hh-red.png"/>](https://taganrog.hh.ru/resume/13eae788ff0bee7f2f0039ed1f6d7145434a69)
 [<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/icons8-телеграм-94.png"/>](https://t.me/vitaliykolesnikov)
+
 #
 
 ### :hammer_and_wrench: Technology stack :
@@ -51,11 +52,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolesnikovvitaliy&theme=nord_bright) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kolesnikovvitaliy&theme=nord_bright)
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture> -->
 
 
 
