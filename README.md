@@ -16,12 +16,14 @@
 - :mailbox: Как со мной связаться: 
     * mail: kolesnikovvitaliy@mail.ru.
     * telegram: @vitaliykolesnikov.
+    * телефон: 8 (938) 165-83-47
     
-- ⚡ Люблю самообразование и решать задачи самостоятельно
+- ⚡ Люблю самообразование и решать поставленные задачи самостоятельно
 
-### Свяжитесь со мной :
+### Ссылки на HH, телеграмм и аккаунт Stepik :
 [<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/min-hh-red.png"/>](https://taganrog.hh.ru/resume/13eae788ff0bee7f2f0039ed1f6d7145434a69)
 [<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/icons8-телеграм-94.png"/>](https://t.me/vitaliykolesnikov)
+[<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/stepik.png"/>](https://stepik.org/users/173407867)
 
 #
 ###
