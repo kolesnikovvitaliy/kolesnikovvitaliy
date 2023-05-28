@@ -13,11 +13,11 @@
 - 👯 Принимаю участие в DevOps и ремонте компьютерной техники.
 - 👯 Изучаю что-то новое каждый день.
 - :zap: В свободное время решаю задачи на: https://stepik.org/course/82541/promo#toc и читаю технические статьи.
-- :mailbox: Как со мной связаться:: 
-    mail: kolesnikovvitaliy@mail.ru
-    telegram: @vitaliykolesnikov
+- :mailbox: Как со мной связаться: 
+    * mail: kolesnikovvitaliy@mail.ru
+    * telegram: @vitaliykolesnikov
     
-- ⚡ Люблю самообразование и решать задачи самостjятельно
+- ⚡ Люблю самообразование и решать задачи самостоятельно
 
 ### Свяжитесь со мной :
 
@@ -25,7 +25,7 @@
 [<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/icons8-телеграм-94.png"/>](https://t.me/vitaliykolesnikov)
 
 #
-
+###
 ### :hammer_and_wrench: Technology stack :
 
 
