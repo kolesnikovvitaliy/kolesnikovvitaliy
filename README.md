@@ -2,26 +2,27 @@
 
 
 
-### Hi there I'm Vitaliy  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+### Здравствуйте меня зовут Виталий  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
 
-### I'm a Software Engineer Python / Back-end Developer !!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+### Я инженер-программист Python / Full Stack разработчик / С навыками DevOps и ремонта компьютерной техники.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I have been working with Python for more than 3 years.
-- :seedling: I’m working as a Software Engineer and contributing to frontend and backend for building interactiv applications.
-- 👯 I'm learning new things everyday.
-- :zap: In my free time, I solve problems on https://stepik.org/course/82541/promo#toc and read tech articles.
-- :mailbox: How to contact me: 
-    mail me @ kolesnikovvitaliy@mail.ru
+- :telescope: Работаю с Python более 3 лет.
+- :seedling: В ежедневном режиме использую технологии разработки на Python, участвую во Frontend и Backend разработке для создания интерактивных приложений.
+- 👯 Принимаю участие в DevOps и ремонте компьютерной техники.
+- 👯 Изучаю что-то новое каждый день.
+- :zap: В свободное время решаю задачи на: https://stepik.org/course/82541/promo#toc и читаю технические статьи.
+- :mailbox: Как со мной связаться:: 
+    mail: kolesnikovvitaliy@mail.ru
+    telegram: @vitaliykolesnikov
     
-- ⚡ Fun fact: I love self-education
+- ⚡ Люблю самообразование и решать задачи самостаятельно
 
-### Connect with me :
+### Свяжитесь со мной :
 
 [<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/min-hh-red.png"/>](https://taganrog.hh.ru/resume/13eae788ff0bee7f2f0039ed1f6d7145434a69)
 [<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/icons8-телеграм-94.png"/>](https://t.me/vitaliykolesnikov)
-[<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>](https://github.com/kolesnikovvitaliy)'
 #
 
 ### :hammer_and_wrench: Technology stack :
@@ -50,11 +51,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolesnikovvitaliy&theme=nord_bright) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kolesnikovvitaliy&theme=nord_bright)
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
   <img alt="github-snake" src="github-snake.svg">
-</picture>
+</picture> -->
 
 
 
