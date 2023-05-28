@@ -18,7 +18,7 @@
     * telegram: @vitaliykolesnikov.
     * телефон: 8 (938) 165-83-47
     
-- ⚡ Люблю самообразование и решать поставленные задачи самостоятельно
+- ⚡ Люблю самообразование и решать поставленные задачи самостоятельно !!!
 
 ### Ссылки на HH, телеграмм и аккаунт Stepik :
 [<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/min-hh-red.png"/>](https://taganrog.hh.ru/resume/13eae788ff0bee7f2f0039ed1f6d7145434a69)
