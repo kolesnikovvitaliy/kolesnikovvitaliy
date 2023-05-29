@@ -32,20 +32,20 @@ https://github.com/kolesnikovvitaliy/Python_practical_tasks
 https://github.com/kolesnikovvitaliy/SQL_practical_tasks
 
 #
-В данное время прохожу курсы:
+### В данное время прохожу курсы:
 * Автоматизация_тестирования_с_помощью_Selenium_и_Python_Stepik: https://github.com/kolesnikovvitaliy/Practice_QA_Automation_Selenium_Python
 
 #
-### Стажировка:
+## Стажировка:
 
 Документрирование выполненных задач:  
 https://github.com/kolesnikovvitaliy/Internship_DevOps
 #
-## Изученная литература:
+# Изученная литература:
 https://github.com/kolesnikovvitaliy/studied_literature
 
 #
-## Дипломы, Свидетельства и Сертификаты:
+# Дипломы, Свидетельства и Сертификаты:
 https://github.com/kolesnikovvitaliy/education_certificates
 #
 
