@@ -19,6 +19,35 @@
     * телефон: 8 (938) 165-83-47
     
 - ⚡ Люблю самообразование и решать поставленные задачи самостоятельно !!!
+#
+### Мои PET_PROJECTS
+* Django - Интернет магазин:</a> https://github.com/kolesnikovvitaliy/django-pet-project
+* Игра на Python - "Gelicopter":</a> https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter
+* Десктопное приложение по учету ГСМ на Python "Uavto": https://github.com/kolesnikovvitaliy/pet_project_uavto
+#
+### Примеры решенных задач:
+* На Python:
+https://github.com/kolesnikovvitaliy/Python_practical_tasks
+* На SQL
+https://github.com/kolesnikovvitaliy/SQL_practical_tasks
+
+#
+В данное время прохожу курсы:
+* Автоматизация_тестирования_с_помощью_Selenium_и_Python_Stepik: https://github.com/kolesnikovvitaliy/Practice_QA_Automation_Selenium_Python
+
+#
+### Стажировка:
+
+Документрирование выполненных задач:  
+https://github.com/kolesnikovvitaliy/Internship_DevOps
+#
+## Изученная литература:
+https://github.com/kolesnikovvitaliy/studied_literature
+
+#
+## Дипломы, Свидетельства и Сертификаты:
+https://github.com/kolesnikovvitaliy/education_certificates
+#
 
 ### Ссылки на HH, телеграмм и аккаунт Stepik :
 [<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/min-hh-red.png"/>](https://taganrog.hh.ru/resume/13eae788ff0bee7f2f0039ed1f6d7145434a69)
