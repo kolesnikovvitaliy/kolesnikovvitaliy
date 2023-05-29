@@ -30,12 +30,9 @@
 https://github.com/kolesnikovvitaliy/Python_practical_tasks
 * На SQL
 https://github.com/kolesnikovvitaliy/SQL_practical_tasks
-
+* Автоматизация_тестирования_с_помощью_Selenium_и_Python: https://github.com/kolesnikovvitaliy/Practice_QA_Automation_Selenium_Python
 #
-### В данное время прохожу курсы:
-* Автоматизация_тестирования_с_помощью_Selenium_и_Python_Stepik: https://github.com/kolesnikovvitaliy/Practice_QA_Automation_Selenium_Python
 
-#
 ## Стажировка:
 
 Документрирование выполненных задач:  
