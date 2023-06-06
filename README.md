@@ -24,13 +24,14 @@
 * Django - Интернет магазин:</a> https://github.com/kolesnikovvitaliy/django-pet-project
 * Игра на Python - "Gelicopter":</a> https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter
 * Десктопное приложение по учету ГСМ на Python "Uavto": https://github.com/kolesnikovvitaliy/pet_project_uavto
+* Автоматизированное тестирование на Python с применение Selenium: https://github.com/kolesnikovvitaliy/pet_project_autotests
+  
 #
 ### Примеры решенных задач:
 * На Python:
 https://github.com/kolesnikovvitaliy/Python_practical_tasks
 * На SQL
 https://github.com/kolesnikovvitaliy/SQL_practical_tasks
-* Автоматизация_тестирования_с_помощью_Selenium_и_Python: https://github.com/kolesnikovvitaliy/Practice_QA_Automation_Selenium_Python
 #
 
 ## Стажировка:
