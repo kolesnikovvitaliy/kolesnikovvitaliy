@@ -24,7 +24,7 @@
 * Django - Интернет магазин:</a> https://github.com/kolesnikovvitaliy/django-pet-project
 * Игра на Python - "Gelicopter":</a> https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter
 * Десктопное приложение по учету ГСМ на Python "Uavto": https://github.com/kolesnikovvitaliy/pet_project_uavto
-* Автоматизированное тестирование на Python с применение Selenium: https://github.com/kolesnikovvitaliy/pet_project_autotests
+* Автоматизированное тестирование на Python с применением Selenium: https://github.com/kolesnikovvitaliy/pet_project_autotests
   
 #
 ### Примеры решенных задач:
