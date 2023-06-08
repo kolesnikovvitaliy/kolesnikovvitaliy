@@ -32,6 +32,8 @@
 https://github.com/kolesnikovvitaliy/Python_practical_tasks
 * На SQL
 https://github.com/kolesnikovvitaliy/SQL_practical_tasks
+* Курсы поколения Python: ООП
+https://github.com/kolesnikovvitaliy/pokolenie_python_oop
 #
 
 ## Стажировка:
