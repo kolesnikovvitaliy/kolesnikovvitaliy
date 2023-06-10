@@ -27,11 +27,11 @@
 * Автоматизированное тестирование на Python с применением Selenium: https://github.com/kolesnikovvitaliy/pet_project_autotests
   
 #
-### Примеры решенных задач:
+## Порошел или прохожу курсы:
 * На Python:
 https://github.com/kolesnikovvitaliy/Python_practical_tasks
-* На SQL
-https://github.com/kolesnikovvitaliy/SQL_practical_tasks
+* Расширенные возможности SQL: Stepik от ДВФУ
+https://github.com/kolesnikovvitaliy/SQL_trainer_advanced
 * Курсы поколения Python: ООП
 https://github.com/kolesnikovvitaliy/pokolenie_python_oop
 #
