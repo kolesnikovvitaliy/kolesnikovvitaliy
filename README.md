@@ -27,20 +27,20 @@
 * Автоматизированное тестирование на Python с применением Selenium: https://github.com/kolesnikovvitaliy/pet_project_autotests
   
 #
-## Порошел или прохожу курсы:
+## Прошел или прохожу курсы:
 * На Python:
 https://github.com/kolesnikovvitaliy/Python_practical_tasks
 * Расширенные возможности SQL: Stepik от ДВФУ
 https://github.com/kolesnikovvitaliy/SQL_trainer_advanced
 * Курсы поколения Python: ООП
 https://github.com/kolesnikovvitaliy/pokolenie_python_oop
-#
 
-## Стажировка:
+
+<!-- ## Стажировка:
 
 Документрирование выполненных задач:  
-https://github.com/kolesnikovvitaliy/Internship_DevOps
-#
+https://github.com/kolesnikovvitaliy/Internship_DevOps -->
+
 # Изученная литература:
 https://github.com/kolesnikovvitaliy/studied_literature
 
