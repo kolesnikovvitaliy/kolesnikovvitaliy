@@ -6,43 +6,35 @@
 
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
 
-### Я инженер-программист Python / Full Stack разработчик / С навыками DevOps и ремонта компьютерной техники.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Я начинающий Python разработчик.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Работаю с Python более 3 лет.
-- :seedling: В ежедневном режиме использую технологии разработки на Python, участвую во Frontend и Backend для создания интерактивных приложений.
-- 👯 Принимаю участие в DevOps и ремонте компьютерной техники.
-- 👯 Изучаю что-то новое каждый день.
-- :zap: В свободное время решаю задачи на: https://stepik.org/course/82541/promo#toc и читаю технические статьи.
+- :telescope: Работаю с Python чуть больше 1 года.
+- :seedling: В ежедневном режиме использую технологии разработки на Python.
+- 👯 Дополнитель прошел всю линеку курсов Поколение Python от https://pygen.ru/ на Stepik 
+- Имею свидетельство о повышении квалификации В ДВФУ по специальности Расширенные возможности SQL
+- :zap: В свободное время решаю задачи на: https://leetcode.com/ и читаю технические статьи.
+ 
 - :mailbox: Как со мной связаться: 
     * mail: kolesnikovvitaliy@mail.ru.
     * telegram: @vitaliykolesnikov.
     * телефон: 8 (938) 165-83-47
     
-- ⚡ Люблю самообразование и решать поставленные задачи самостоятельно !!!
+- ⚡ Люблю самообразование !!!
 #
 ### Мои PET_PROJECTS
-* Django - Интернет магазин:</a> https://github.com/kolesnikovvitaliy/django-pet-project
+* Django - Интернет магазин:
+  
+  </a>https://tortiki-taganrog.ru
+   https://github.com/kolesnikovvitaliy/django-pet-project
 * Игра на Python - "Gelicopter":</a> https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter
 * Десктопное приложение по учету ГСМ на Python "Uavto": https://github.com/kolesnikovvitaliy/pet_project_uavto
 * Автоматизированное тестирование на Python с применением Selenium: https://github.com/kolesnikovvitaliy/pet_project_autotests
   
-#
-## Прошел или прохожу курсы:
-* На Python:
-https://github.com/kolesnikovvitaliy/Python_practical_tasks
-* Расширенные возможности SQL: Stepik от ДВФУ
-https://github.com/kolesnikovvitaliy/SQL_trainer_advanced
-* Курсы поколения Python: ООП
-https://github.com/kolesnikovvitaliy/pokolenie_python_oop
-
 
 <!-- ## Стажировка:
 
 Документрирование выполненных задач:  
 https://github.com/kolesnikovvitaliy/Internship_DevOps -->
-
-# Изученная литература:
-https://github.com/kolesnikovvitaliy/studied_literature
 
 #
 # Дипломы, Свидетельства и Сертификаты:
@@ -67,7 +59,6 @@ https://github.com/kolesnikovvitaliy/education_certificates
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-F04E97?style=flat-square&logo=Elasticsearch)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-573D7C?style=flat-square&logo=Bootstrap&logoColor=whiter)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
