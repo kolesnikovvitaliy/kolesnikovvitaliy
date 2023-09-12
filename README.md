@@ -27,8 +27,9 @@
   </a>https://tortiki-taganrog.ru
    https://github.com/kolesnikovvitaliy/django-pet-project
 * Игра на Python - "Gelicopter":</a> https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter
-* Десктопное приложение по учету ГСМ на Python "Uavto": https://github.com/kolesnikovvitaliy/pet_project_uavto
 * Автоматизированное тестирование на Python с применением Selenium: https://github.com/kolesnikovvitaliy/pet_project_autotests
+* Некоторые решенные задачи: </a> https://github.com/kolesnikovvitaliy/Python_practical_tasks
+* Конспект курса Поколение Python ООП: </a> https://github.com/kolesnikovvitaliy/pokolenie_python_oop
   
 
 <!-- ## Стажировка:
