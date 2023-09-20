@@ -10,7 +10,7 @@
 
 - :telescope: Работаю с Python чуть больше 1 года.
 - :seedling: В ежедневном режиме использую технологии разработки на Python.
-- 👯 Дополнитель прошел всю линеку курсов Поколение Python от https://pygen.ru/ на Stepik 
+- 👯 Дополнительно прошел всю линеку курсов Поколение Python от https://pygen.ru/ на Stepik 
 - Имею свидетельство о повышении квалификации В ДВФУ по специальности Расширенные возможности SQL
 - :zap: В свободное время решаю задачи на: https://leetcode.com/ и читаю технические статьи.
  
@@ -25,7 +25,7 @@
 * Django - Интернет магазин:
   
   </a>https://tortiki-taganrog.ru
-   https://github.com/kolesnikovvitaliy/django-pet-project
+  https://github.com/kolesnikovvitaliy/django-pet-project
 * Игра на Python - "Gelicopter":</a> https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter
 * Автоматизированное тестирование на Python с применением Selenium: https://github.com/kolesnikovvitaliy/pet_project_autotests
 * Некоторые решенные задачи: </a> https://github.com/kolesnikovvitaliy/Python_practical_tasks
