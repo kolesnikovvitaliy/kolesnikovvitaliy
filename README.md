@@ -23,18 +23,18 @@
 #
 ### Мои PET_PROJECTS
 * Некоторые задачки на SQL:\
-  </a>https://github.com/kolesnikovvitaliy/SQL_practical_tasks
+  https://github.com/kolesnikovvitaliy/SQL_practical_tasks
 * Django - Интернет магазин:\
-  </a>https://tortiki-taganrog.ru\
-  </a>https://github.com/kolesnikovvitaliy/django-pet-project
+  https://tortiki-taganrog.ru\
+  https://github.com/kolesnikovvitaliy/django-pet-project
 * Игра на Python - "Gelicopter":\
-  </a>https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter
+  https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter
 * Автоматизированное тестирование на Python с применением Selenium:\
-  </a>https://github.com/kolesnikovvitaliy/pet_project_autotests
+  https://github.com/kolesnikovvitaliy/pet_project_autotests
 * Некоторые решенные задачи:\
-  </a>https://github.com/kolesnikovvitaliy/Python_practical_tasks
-* Конспект курса Поколение Python ООП:\ 
-  </a>https://github.com/kolesnikovvitaliy/pokolenie_python_oop
+  https://github.com/kolesnikovvitaliy/Python_practical_tasks
+* Конспект курса Поколение Python ООП:\
+  https://github.com/kolesnikovvitaliy/pokolenie_python_oop
 
 
 <!-- ## Стажировка:
