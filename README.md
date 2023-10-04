@@ -25,7 +25,7 @@
 * Некоторые задачки на SQL:\
   https://github.com/kolesnikovvitaliy/SQL_practical_tasks
 * Django - Интернет магазин:\
-  https://tortiki-taganrog.ru\
+  https://tortiki-taganrog.ru            
   https://github.com/kolesnikovvitaliy/django-pet-project
 * Игра на Python - "Gelicopter":\
   https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter
