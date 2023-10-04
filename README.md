@@ -22,18 +22,18 @@
 - ⚡ Люблю самообразование !!!
 #
 ### Мои PET_PROJECTS
-* Некоторые задачки на SQL: 
+* Некоторые задачки на SQL:\
   </a>https://github.com/kolesnikovvitaliy/SQL_practical_tasks
-* Django - Интернет магазин:
-  </a>https://tortiki-taganrog.ru
+* Django - Интернет магазин:\
+  </a>https://tortiki-taganrog.ru\
   </a>https://github.com/kolesnikovvitaliy/django-pet-project
-* Игра на Python - "Gelicopter": 
+* Игра на Python - "Gelicopter":\
   </a>https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter
-* Автоматизированное тестирование на Python с применением Selenium: 
+* Автоматизированное тестирование на Python с применением Selenium:\
   </a>https://github.com/kolesnikovvitaliy/pet_project_autotests
-* Некоторые решенные задачи: 
+* Некоторые решенные задачи:\
   </a>https://github.com/kolesnikovvitaliy/Python_practical_tasks
-* Конспект курса Поколение Python ООП: 
+* Конспект курса Поколение Python ООП:\ 
   </a>https://github.com/kolesnikovvitaliy/pokolenie_python_oop
 
 
