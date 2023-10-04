@@ -22,7 +22,8 @@
 - ⚡ Люблю самообразование !!!
 #
 ### Мои PET_PROJECTS
-* Некоторые задачки на SQL: </a>https://github.com/kolesnikovvitaliy/SQL_practical_tasks
+* Некоторые задачки на SQL: 
+  https://github.com/kolesnikovvitaliy/SQL_practical_tasks
 * Django - Интернет магазин:
   https://tortiki-taganrog.ru
   https://github.com/kolesnikovvitaliy/django-pet-project
