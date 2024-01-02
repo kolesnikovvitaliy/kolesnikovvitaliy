@@ -25,7 +25,7 @@
   https://tortiki-taganrog.ru            
 * Автоматизированное тестирование на Python с применением Selenium:\
   https://github.com/kolesnikovvitaliy/pet_project_autotests
-* Расширенные возможности SQL:
+* Расширенные возможности SQL:\
   https://github.com/kolesnikovvitaliy/SQL_practical_tasks
 * Конспект курса Поколение Python ООП:\
   https://github.com/kolesnikovvitaliy/pokolenie_python_oop
