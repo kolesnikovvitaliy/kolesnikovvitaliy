@@ -6,9 +6,8 @@
 
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
 
-### Я начинающий Python разработчик.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Я Python разработчик.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- Работаю с Python чуть больше 1 года.
 - В ежедневном режиме использую технологии разработки на Python.
 - Дополнительно прошел всю линейку курсов Поколение Python от https://pygen.ru/ на Stepik 
 - Имею свидетельство о повышении квалификации В ДВФУ по специальности Расширенные возможности SQL
@@ -22,25 +21,15 @@
 - ⚡ Люблю самообразование !!!
 #
 ### Мои PET_PROJECTS
-* Некоторые задачки на SQL:\
-  https://github.com/kolesnikovvitaliy/SQL_practical_tasks
 * Django - Интернет магазин:\
   https://tortiki-taganrog.ru            
-  https://github.com/kolesnikovvitaliy/django-pet-project
-* Игра на Python - "Gelicopter":\
-  https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter
 * Автоматизированное тестирование на Python с применением Selenium:\
   https://github.com/kolesnikovvitaliy/pet_project_autotests
-* Некоторые решенные задачи:\
-  https://github.com/kolesnikovvitaliy/Python_practical_tasks
+* Расширенные возможности SQL:
+  https://github.com/kolesnikovvitaliy/SQL_practical_tasks
 * Конспект курса Поколение Python ООП:\
   https://github.com/kolesnikovvitaliy/pokolenie_python_oop
 
-
-<!-- ## Стажировка:
-
-Документрирование выполненных задач:  
-https://github.com/kolesnikovvitaliy/Internship_DevOps -->
 
 #
 # Дипломы, Свидетельства и Сертификаты:
