@@ -29,6 +29,8 @@
   https://github.com/kolesnikovvitaliy/SQL_practical_tasks
 * Конспект курса Поколение Python ООП:\
   https://github.com/kolesnikovvitaliy/pokolenie_python_oop
+* Сборка виртуального окружения .venv в Docker контейнере\
+  https://github.com/kolesnikovvitaliy/.build_venv_in_docker
 
 
 #
