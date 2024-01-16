@@ -19,22 +19,29 @@
     * телефон: 8 (938) 165-83-47
     
 - ⚡ Люблю самообразование !!!
+<br>
+<h4>Profile Views</h4>
+ <p align="left"> <img src="https://profile-counter.glitch.me/kolesnikovvitaliy/count.svg" alt="desphixs" /> </p>
+ </br>
+
 #
-### Мои PET_PROJECTS
-* Django - Интернет магазин:\
-  https://tortiki-taganrog.ru            
+
+### Мои проекты
+* Внедрение в свой проек виртуального окружения .venv собранного в Docker контейнере\
+  https://github.com/kolesnikovvitaliy/.build_venv_in_docker
 * Автоматизированное тестирование на Python с применением Selenium:\
   https://github.com/kolesnikovvitaliy/pet_project_autotests
 * Расширенные возможности SQL:\
   https://github.com/kolesnikovvitaliy/SQL_practical_tasks
 * Конспект курса Поколение Python ООП:\
   https://github.com/kolesnikovvitaliy/pokolenie_python_oop
-* Сборка виртуального окружения .venv в Docker контейнере\
-  https://github.com/kolesnikovvitaliy/.build_venv_in_docker
-
 
 #
-# Дипломы, Свидетельства и Сертификаты:
+### Изученная литература
+https://github.com/kolesnikovvitaliy/studied_literature
+
+#
+### Дипломы, Свидетельства и Сертификаты:
 https://github.com/kolesnikovvitaliy/education_certificates
 #
 
@@ -50,13 +57,20 @@ https://github.com/kolesnikovvitaliy/education_certificates
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=SQL)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-ffce5a?style=flat-square&logo=Ansible)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![Fastapi](https://img.shields.io/badge/-Fastapi-0aad48?style=flat-square&logo=Fastapi)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%2300C7B7?style=flat-square&logo=RabbitMQ)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![MSSQL](https://img.shields.io/badge/-MSSQL-%232c3e50?style=flat-square&logo=MSSQL)
+![Mongodb](https://img.shields.io/badge/-Mongodb-%232c3e50?style=flat-square&logo=Mongodb)
+![Redis](https://img.shields.io/badge/-Redis-%232c3e50?style=flat-square&logo=Redis)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-573D7C?style=flat-square&logo=Bootstrap&logoColor=whiter)
+![PyQt6](https://img.shields.io/badge/-PyQt6-573D7C?style=flat-square&logo=PyQt6&logoColor=whiter)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Nginx](https://img.shields.io/badge/-Nginx-029339?style=flat-square&logo=Nginx)
@@ -64,6 +78,14 @@ https://github.com/kolesnikovvitaliy/education_certificates
 
 
 ## About my Github:
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=kolesnikovvitaliy&show_icons=true&locale=en" alt="kolesnikovvitaliy" /></p>
+<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=kolesnikovvitaliy'></p>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolesnikovvitaliy&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+#
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolesnikovvitaliy&theme=nord_bright) <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolesnikovvitaliy&theme=nord_bright) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolesnikovvitaliy&theme=nord_bright) <br>
