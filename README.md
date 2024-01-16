@@ -30,7 +30,7 @@
 * Внедрение в свой проек виртуального окружения .venv собранного в Docker контейнере\
   https://github.com/kolesnikovvitaliy/.build_venv_in_docker
 #
-* FastApi проект, магазин по продаже Пицци\
+* FastApi проект, магазин по продаже Пиццы\
   https://github.com/kolesnikovvitaliy/pizza-delivery-fastapi
 #
 * Автоматизированное тестирование на Python с применением Selenium:\
