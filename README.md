@@ -29,10 +29,16 @@
 ### Мои проекты
 * Внедрение в свой проек виртуального окружения .venv собранного в Docker контейнере\
   https://github.com/kolesnikovvitaliy/.build_venv_in_docker
+#
+* FastApi проект, магазин по продаже Пицци\
+  https://github.com/kolesnikovvitaliy/pizza-delivery-fastapi
+#
 * Автоматизированное тестирование на Python с применением Selenium:\
   https://github.com/kolesnikovvitaliy/pet_project_autotests
+#
 * Расширенные возможности SQL:\
   https://github.com/kolesnikovvitaliy/SQL_practical_tasks
+#
 * Конспект курса Поколение Python ООП:\
   https://github.com/kolesnikovvitaliy/pokolenie_python_oop
 
