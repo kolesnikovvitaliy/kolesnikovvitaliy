@@ -71,6 +71,7 @@ https://github.com/kolesnikovvitaliy/education_certificates
 ![Fastapi](https://img.shields.io/badge/-Fastapi-0aad48?style=flat-square&logo=Fastapi)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%2300C7B7?style=flat-square&logo=RabbitMQ)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-%232c3e50?style=flat-square&logo=SQLAlchemy)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-%232c3e50?style=flat-square&logo=MSSQL)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-%232c3e50?style=flat-square&logo=Mongodb)
