@@ -39,6 +39,10 @@
 * Расширенные возможности SQL:\
   https://github.com/kolesnikovvitaliy/SQL_practical_tasks
 #
+* Некоторые решённые мной задачки на Python\
+  https://github.com/kolesnikovvitaliy/Python_practical_tasks.git
+#
+
 * Конспект курса Поколение Python ООП:\
   https://github.com/kolesnikovvitaliy/pokolenie_python_oop
 
