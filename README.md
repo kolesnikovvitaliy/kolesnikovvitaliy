@@ -18,7 +18,7 @@
     * telegram: @vitaliykolesnikov.
     * телефон: 8 (938) 165-83-47
     
-- ⚡ Люблю самообразование !!!
+
 <br>
 <h4>Profile Views</h4>
  <p align="left"> <img src="https://profile-counter.glitch.me/kolesnikovvitaliy/count.svg" alt="desphixs" /> </p>
@@ -27,12 +27,14 @@
 #
 
 ### Мои проекты
-* FastApi проект, API магазина по продаже Пиццы\
-  https://github.com/kolesnikovvitaliy/pizza-delivery-fastapi
-* Внедрение в свой проек виртуального окружения .venv собранного в Docker контейнере\
-  https://github.com/kolesnikovvitaliy/.build_venv_in_docker
 * Интернет магазин по продаже тортиков\
   https://tortiki-taganrog.ru
+* FastApi проект, API магазина по продаже Пиццы\
+  https://github.com/kolesnikovvitaliy/pizza-delivery-fastapi
+* Django проект магазин тортиков\
+  https://github.com/kolesnikovvitaliy/django-pet-project
+* Внедрение в свой проек виртуального окружения .venv собранного в Docker контейнере\
+  https://github.com/kolesnikovvitaliy/.build_venv_in_docker
 * Автоматизированное тестирование на Python с применением Selenium:\
   https://github.com/kolesnikovvitaliy/pet_project_autotests
 * Расширенные возможности SQL:\
@@ -41,6 +43,9 @@
   https://github.com/kolesnikovvitaliy/Python_practical_tasks.git
 * Конспект курса Поколение Python ООП:\
   https://github.com/kolesnikovvitaliy/pokolenie_python_oop
+* Проект мини игра на Python "Gelicopter"\
+  https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter
+
 
 #
 ### Изученная литература
