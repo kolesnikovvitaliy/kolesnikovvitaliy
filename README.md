@@ -26,11 +26,13 @@
 
 #
 
-### Мои учебные проекты
+### Мои проекты
+* FastApi проект, API магазина по продаже Пиццы\
+  https://github.com/kolesnikovvitaliy/pizza-delivery-fastapi
 * Внедрение в свой проек виртуального окружения .venv собранного в Docker контейнере\
   https://github.com/kolesnikovvitaliy/.build_venv_in_docker
-* FastApi проект, магазин по продаже Пиццы\
-  https://github.com/kolesnikovvitaliy/pizza-delivery-fastapi
+* Интернет магазин по продаже тортиков\
+  https://tortiki-taganrog.ru
 * Автоматизированное тестирование на Python с применением Selenium:\
   https://github.com/kolesnikovvitaliy/pet_project_autotests
 * Расширенные возможности SQL:\
