@@ -33,7 +33,7 @@
   https://github.com/kolesnikovvitaliy/pizza-delivery-fastapi
 * Django проект магазин тортиков\
   https://github.com/kolesnikovvitaliy/django-pet-project
-* Внедрение в свой проек виртуального окружения .venv собранного в Docker контейнере\
+* Внедрение в свой проект виртуального окружения .venv собранного в Docker контейнере\
   https://github.com/kolesnikovvitaliy/.build_venv_in_docker
 * Автоматизированное тестирование на Python с применением Selenium:\
   https://github.com/kolesnikovvitaliy/pet_project_autotests
