@@ -28,8 +28,12 @@
 
 ### Мои проекты
 * Интернет магазин по продаже тортиков\
+  (Django, Docker-Compose, PostgreSql, Ansible, 
+  GitHub-Action, Gunicorn, Nginx, Certbot, Smtp )\
+  Развернут на VCD: debian\
   https://tortiki-taganrog.ru
 * FastApi проект, API магазина по продаже Пиццы\
+  (FastApi, PostgreSql, SqlAlchemy, Alembic, Async, Docker-compose)\
   https://github.com/kolesnikovvitaliy/pizza-delivery-fastapi
 * Django проект магазин тортиков\
   https://github.com/kolesnikovvitaliy/django-pet-project
@@ -69,7 +73,9 @@ https://github.com/kolesnikovvitaliy/education_certificates
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=SQL)
+![Async](https://img.shields.io/badge/Async-black?style=flat-square&logo=Async)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![DockerCompose](https://img.shields.io/badge/-DockerCompose-46a2f1?style=flat-square&logo=DockerCompose&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-ffce5a?style=flat-square&logo=Ansible)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
@@ -86,6 +92,10 @@ https://github.com/kolesnikovvitaliy/education_certificates
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Nginx](https://img.shields.io/badge/-Nginx-029339?style=flat-square&logo=Nginx)
+![Apache](https://img.shields.io/badge/-Apache-029339?style=flat-square&logo=Apache)
+![Debian](https://img.shields.io/badge/-Debian-029339?style=flat-square&logo=Debian)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-029339?style=flat-square&logo=Ubuntu)
+![AstraLinux](https://img.shields.io/badge/AstraLinux-029339?style=flat-square&logo=AstraLinux)
 
 
 
