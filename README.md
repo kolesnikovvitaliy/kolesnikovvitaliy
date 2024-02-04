@@ -33,7 +33,7 @@
   Развернут на VCD: debian\
   https://tortiki-taganrog.ru
 * FastApi проект, API магазина по продаже Пиццы\
-  (FastApi, PostgreSql, SqlAlchemy, Alembic, Async, Docker-compose)\
+  (FastApi, PostgreSql, SqlAlchemy, Alembic, Async, Docker-compose, Auth2.0)\
   https://github.com/kolesnikovvitaliy/pizza-delivery-fastapi
 * Django проект магазин тортиков\
   https://github.com/kolesnikovvitaliy/django-pet-project
