@@ -27,6 +27,8 @@
 #
 
 ### Мои проекты
+* Проект на python - Phone Book\
+  https://github.com/kolesnikovvitaliy/phone_book_python.git
 * Интернет магазин по продаже тортиков\
   (Django, Docker-Compose, PostgreSql, Ansible, 
   GitHub-Action, Gunicorn, Nginx, Certbot, Smtp )\
