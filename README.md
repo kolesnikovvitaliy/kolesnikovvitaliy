@@ -27,6 +27,8 @@
 #
 
 ### Мои проекты
+* Django E-COMMERCE project\
+  https://github.com/kolesnikovvitaliy/ecomprj.git
 * Проект на python - Phone Book\
   https://github.com/kolesnikovvitaliy/phone_book_python.git
 * Интернет магазин по продаже тортиков\
@@ -37,8 +39,6 @@
 * FastApi проект, API магазина по продаже Пиццы\
   (FastApi, PostgreSql, SqlAlchemy, Alembic, Async, Docker-compose, OAuth2.0)\
   https://github.com/kolesnikovvitaliy/pizza-delivery-fastapi
-* Django проект магазин тортиков\
-  https://github.com/kolesnikovvitaliy/django-pet-project
 * Внедрение в свой проект виртуального окружения .venv собранного в Docker контейнере\
   https://github.com/kolesnikovvitaliy/.build_venv_in_docker
 * Автоматизированное тестирование на Python с применением Selenium:\
