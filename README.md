@@ -31,11 +31,11 @@
   https://github.com/kolesnikovvitaliy/ecomprj.git
 * Проект на python - Phone Book\
   https://github.com/kolesnikovvitaliy/phone_book_python.git
-* Интернет магазин по продаже тортиков\
+* Сайт по ремонту компьютеров, принтеров и оргтехники\
   (Django, Docker-Compose, PostgreSql, Ansible, 
   GitHub-Action, Gunicorn, Nginx, Certbot, Smtp )\
-  Развернут на VCD: debian\
-  https://tortiki-taganrog.ru
+  Развернут на VCD: debian11 \
+  https://sc-grekovo.ru
 * FastApi проект, API магазина по продаже Пиццы\
   (FastApi, PostgreSql, SqlAlchemy, Alembic, Async, Docker-compose, OAuth2.0)\
   https://github.com/kolesnikovvitaliy/pizza-delivery-fastapi
