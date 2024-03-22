@@ -27,6 +27,8 @@
 #
 
 ### Мои проекты
+* Docker container for developing applications with Async: MSSQL, Fastapi, Sqlalchemy
+  https://github.com/kolesnikovvitaliy/fastapi_training_app
 * Django E-COMMERCE project\
   https://github.com/kolesnikovvitaliy/ecomprj.git
 * Проект на python - Phone Book\
