@@ -27,7 +27,7 @@
 
 ### ПРОЕКТЫ:
 * PYTHON:
-  * [Docker контейнер для разработки приложений с помощью установленных асинхронных:](href=https://github.com/kolesnikovvitaliy/fastapi_training_app)
+  * [Docker контейнер для разработки приложений с помощью установленных асинхронных:](https://github.com/kolesnikovvitaliy/fastapi_training_app.git)
     - Базы данных - MSSQL
     - Sqlalchemy
     - Fastapi
