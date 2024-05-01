@@ -2,22 +2,21 @@
 
 
 
-### Здравствуйте меня зовут Виталий  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+### Здравствуйте я Виталий  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
 
-### Я Python разработчик.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- В ежедневном режиме использую технологии разработки на Python.
-- Дополнительно прошел всю линейку курсов Поколение Python от https://pygen.ru/ на Stepik 
-- Имею свидетельство о повышении квалификации В ДВФУ по специальности Расширенные возможности SQL
-- В свободное время решаю задачи на: https://leetcode.com/ и читаю технические статьи.
- 
-- Как со мной связаться: 
+- Разрабатываю на языках:
+    * Python
+    * SQL, T-SQL
+
+- Поддерживаю связь :
     * mail: kolesnikovvitaliy@mail.ru.
     * telegram: @vitaliykolesnikov.
     * телефон: 8 (938) 165-83-47
-    
+
 
 <br>
 <h4>Profile Views</h4>
@@ -26,49 +25,38 @@
 
 #
 
-### Мои проекты
-* Docker container for developing applications with Async: MSSQL, Fastapi, Sqlalchemy
-  https://github.com/kolesnikovvitaliy/fastapi_training_app
-* Django E-COMMERCE project\
-  https://github.com/kolesnikovvitaliy/ecomprj.git
-* Проект на python - Phone Book\
-  https://github.com/kolesnikovvitaliy/phone_book_python.git
-* Сайт по ремонту компьютеров, принтеров и оргтехники\
-  (Django, Docker-Compose, PostgreSql, Ansible, 
-  GitHub-Action, Gunicorn, Nginx, Certbot, Smtp )\
-  Развернут на VCD: debian11 \
-  https://sc-grekovo.ru
-* FastApi проект, API магазина по продаже Пиццы\
-  (FastApi, PostgreSql, SqlAlchemy, Alembic, Async, Docker-compose, OAuth2.0)\
-  https://github.com/kolesnikovvitaliy/pizza-delivery-fastapi
-* Внедрение в свой проект виртуального окружения .venv собранного в Docker контейнере\
-  https://github.com/kolesnikovvitaliy/.build_venv_in_docker
-* Автоматизированное тестирование на Python с применением Selenium:\
-  https://github.com/kolesnikovvitaliy/pet_project_autotests
-* Расширенные возможности SQL:\
-  https://github.com/kolesnikovvitaliy/SQL_practical_tasks
-* Некоторые решённые мной задачки на Python\
-  https://github.com/kolesnikovvitaliy/Python_practical_tasks.git
-* Конспект курса Поколение Python ООП:\
-  https://github.com/kolesnikovvitaliy/pokolenie_python_oop
-* Проект мини игра на Python "Gelicopter"\
-  https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter
-
-
-#
-### Изученная литература
-https://github.com/kolesnikovvitaliy/studied_literature
-
-#
-### Дипломы, Свидетельства и Сертификаты:
-https://github.com/kolesnikovvitaliy/education_certificates
-#
-
-### Ссылки на HH, телеграмм и аккаунт Stepik :
-[<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/min-hh-red.png"/>](https://taganrog.hh.ru/resume/13eae788ff0bee7f2f0039ed1f6d7145434a69)
-[<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/icons8-телеграм-94.png"/>](https://t.me/vitaliykolesnikov)
-[<img align="left" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/kolesnikovvitaliy/blob/main/images/stepik.png"/>](https://stepik.org/users/173407867)
-
+### ПРОЕКТЫ:
+* PYTHON:
+  * [Docker контейнер для разработки приложений с помощью установленных асинхронных:](href=https://github.com/kolesnikovvitaliy/fastapi_training_app)
+    - Базы данных - MSSQL
+    - Sqlalchemy
+    - Fastapi
+  * [Телефонная книга](https://github.com/kolesnikovvitaliy/phone_book_python.git)
+  * [Django E-COMMERCE project](https://github.com/kolesnikovvitaliy/ecomprj.git)
+  * [Учебный сайт по ремонту компьютеров с применением технологий:](https://sc-grekovo.ru)
+    - Django
+    - Docker-Compose
+    - PostgreSql
+    - Ansible
+    - GitHub-Action
+    - Gunicorn
+    - Nginx
+    - Certbot
+    - Smtp
+    - VCD: debian11
+  * [Учебный проект API магазина по продаже Пиццы с применением технологий:](https://github.com/kolesnikovvitaliy/pizza-delivery-fastapi)
+    - FastApi
+    - PostgreSql
+    - SqlAlchemy
+    - Alembic
+    - Async
+    - Docker-compose
+    - OAuth2.0
+  * [Автоматизированное тестирование на Python с применением Selenium](https://github.com/kolesnikovvitaliy/pet_project_autotests)
+  * [Внедрение в свой проект виртуального окружения .venv собранного в Docker контейнере](https://github.com/kolesnikovvitaliy/.build_venv_in_docker)
+  * [Проект мини игра на Python "Gelicopter"](https://github.com/kolesnikovvitaliy/pet_project_game_gelicopter)
+* SQL
+  * [Расширенные возможности SQL](https://github.com/kolesnikovvitaliy/SQL_practical_tasks)
 #
 ###
 ### :hammer_and_wrench: Technology stack :
@@ -107,20 +95,18 @@ https://github.com/kolesnikovvitaliy/education_certificates
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=kolesnikovvitaliy&show_icons=true&locale=en" alt="kolesnikovvitaliy" /></p>
 <p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=kolesnikovvitaliy'></p>
- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolesnikovvitaliy&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolesnikovvitaliy&theme=nord_bright) <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolesnikovvitaliy&theme=nord_bright) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolesnikovvitaliy&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolesnikovvitaliy&theme=nord_bright) <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolesnikovvitaliy&theme=nord_bright) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolesnikovvitaliy&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kolesnikovvitaliy&theme=nord_bright)
 
 
 
 
 ![Snake Status](./images/github-kolesnikovvitaliy-snake.svg)
-
-
