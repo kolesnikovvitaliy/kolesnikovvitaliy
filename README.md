@@ -8,9 +8,9 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- Разрабатываю на языках:
+<!-- - Разрабатываю на языках:
     * Python
-    * SQL, T-SQL
+    * SQL, T-SQL -->
 
 - Поддерживаю связь :
     * mail: kolesnikovvitaliy@mail.ru.
@@ -25,7 +25,7 @@
 
 #
 
-### ПРОЕКТЫ:
+<!-- ### ПРОЕКТЫ:
 * PYTHON:
   * [Docker контейнер для разработки приложений с помощью установленных асинхронных:](https://github.com/kolesnikovvitaliy/fastapi_training_app.git)
     - Базы данных - MSSQL
@@ -87,11 +87,9 @@
 ![Apache](https://img.shields.io/badge/-Apache-029339?style=flat-square&logo=Apache)
 ![Debian](https://img.shields.io/badge/-Debian-029339?style=flat-square&logo=Debian)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-029339?style=flat-square&logo=Ubuntu)
-![AstraLinux](https://img.shields.io/badge/AstraLinux-029339?style=flat-square&logo=AstraLinux)
+![AstraLinux](https://img.shields.io/badge/AstraLinux-029339?style=flat-square&logo=AstraLinux) -->
 
-
-
-## About my Github:
+<!-- ## About my Github:
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=kolesnikovvitaliy&show_icons=true&locale=en" alt="kolesnikovvitaliy" /></p>
 <p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=kolesnikovvitaliy'></p>
@@ -109,4 +107,4 @@
 
 
 
-![Snake Status](./images/github-kolesnikovvitaliy-snake.svg)
+![Snake Status](./images/github-kolesnikovvitaliy-snake.svg) -->
