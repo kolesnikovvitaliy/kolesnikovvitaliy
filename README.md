@@ -26,10 +26,7 @@
     * телефон: 8 (938) 165-83-47
 
 
-<br>
-<h4>Profile Views</h4>
- <p align="left"> <img src="https://profile-counter.glitch.me/kolesnikovvitaliy/count.svg" alt="desphixs" /> </p>
- </br>
+
 
 #
 
