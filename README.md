@@ -113,3 +113,6 @@
 
 
 [Snake Status](./images/github-kolesnikovvitaliy-snake.svg) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolesnikovvitaliy&theme=ocean_dark)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kolesnikovvitaliy&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kolesnikovvitaliy&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
