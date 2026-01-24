@@ -106,13 +106,13 @@
 
 #
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolesnikovvitaliy&theme=nord_bright) <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolesnikovvitaliy&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolesnikovvitaliy&theme=nord_bright) <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolesnikovvitaliy&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kolesnikovvitaliy&theme=nord_bright)
+[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolesnikovvitaliy&theme=nord_bright) <br>
+[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolesnikovvitaliy&theme=nord_bright)
+[](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolesnikovvitaliy&theme=nord_bright) <br>
+[](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolesnikovvitaliy&theme=nord_bright)
+[](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kolesnikovvitaliy&theme=nord_bright)
 
 
 
 
-![Snake Status](./images/github-kolesnikovvitaliy-snake.svg) -->
+[Snake Status](./images/github-kolesnikovvitaliy-snake.svg) -->
