@@ -27,7 +27,30 @@
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kolesnikovvitaliy&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 #
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kolesnikovvitaliy&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="kolesnikovvitaliy" style="padding-right:20px;" />
+</p>
 
+---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolesnikovvitaliy&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolesnikovvitaliy&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolesnikovvitaliy&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolesnikovvitaliy&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kolesnikovvitaliy&theme=aura&utcOffset=8)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kolesnikovvitaliy&border=true&border_color=00ACC1&theme=aura&disable_animations=true" alt="kolesnikovvitaliy" /></p>
+</p>
+
+<!--Contribution Graph-->
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kolesnikovvitaliy&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+</div> <hr>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
+</p>
 
 <!-- ### ПРОЕКТЫ:
 * PYTHON:
