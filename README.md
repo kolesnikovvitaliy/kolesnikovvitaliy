@@ -47,10 +47,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kolesnikovvitaliy&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
-</div> <hr>
+<!--</div> <hr>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
-</p>
+</p> -->
 
 <!-- ### ПРОЕКТЫ:
 * PYTHON:
