@@ -2,7 +2,7 @@
 
 
 
-### Здравствуйте меня зовут Виталий  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+### Hello my name  Виталий <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 
 
@@ -47,10 +47,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kolesnikovvitaliy&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
-<!--</div> <hr>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
-</p> -->
+
 
 <!-- ### ПРОЕКТЫ:
 * PYTHON:
