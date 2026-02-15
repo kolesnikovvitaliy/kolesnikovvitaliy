@@ -33,6 +33,10 @@
 </p>
 
 ---
+![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=kolesnikovvitaliy&theme=aura)
+![](https://github-contributor-stats.vercel.app/api?username=kolesnikovvitaliy&limit=5&theme=aura&combine_all_yearly_contributions=true)</br>
+
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolesnikovvitaliy&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolesnikovvitaliy&theme=aura)
@@ -43,6 +47,7 @@
 </p>
 
 <!--Contribution Graph-->
+### 📈Contribution Graph
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kolesnikovvitaliy&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
