@@ -4,12 +4,15 @@
 
 ### Hello my name  Виталий 
 ### Работаю по 12 часов на заводе.
-### В свободное время изучаю программирование.
-
-
+### В свободное время изучаю языки:
+      ### Python;
+      ### assembler;
+      ### Си; <-- на данном этапе;
+      ### С++;
+      ### Rust.
 ### Цель: 
 ###    Стать специалистом.
-###    Устроиться на должность программиста. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+###    Устроиться на должность разработчика. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 
 
